@@ -20,17 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc90684c-9933-4ab5-a61a-bbf3ffd262e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PaperFolder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Paper-Fold/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Paper-Fold/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Paper-Fold/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Paper-Fold/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectFolding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectFolding.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectFolding.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectFolding.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker3-prev.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker4-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker4-prev.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker5-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker4-prev.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +45,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A6C194-5F57-4474-95FC-AD42118554C7/2a/a4001fac/Stack`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF667CDC-82BF-4A4E-911D-1DDEA9FF581D/d4/9e18ad63/Camera.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/YieldInstructions/WaitForMouseButtonDown.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectFolding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PaperFolder.cs" />
       </list>
     </option>
   </component>
@@ -74,7 +79,8 @@
       <workItem from="1629190456546" duration="7849000" />
       <workItem from="1629259785348" duration="4287000" />
       <workItem from="1629274395475" duration="1678000" />
-      <workItem from="1629365297146" duration="689000" />
+      <workItem from="1629365297146" duration="4451000" />
+      <workItem from="1629391225739" duration="17024000" />
     </task>
     <servers />
   </component>
@@ -97,9 +103,13 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="431" y="145" key="search.everywhere.popup" timestamp="1629265475134">
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1629398036323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1629265475134" />
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1629398036323" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1629404555113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1629404555113" />
   </component>
 </project>
